@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md.md"
+                "file": "readme.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e704c4b0a75709ee",
+  "active": "104ceb04861881f9",
   "lastOpenFiles": [
+    "Livros/Bíblia/readme.md",
+    "readme.md",
+    "Livros/Bíblia",
     "Aulas da UFJF",
     "Livros",
     "Computação/Engenharia de Software",
     "Computação/VueJS",
     "Computação/NodeJS",
-    "Computação",
-    "readme.md.md"
+    "Computação"
   ]
 }
