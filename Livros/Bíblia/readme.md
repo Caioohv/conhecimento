@@ -13,11 +13,11 @@ As anotações estão organizadas da seguinte forma:
 
 ### Estrutura
 
-- **[Gênesis](Genesis.md)**
-- **[Êxodo](Exodo.md)**
-- **[Levítico](Levitico.md)**
+- **Gênesis**
+- **Êxodo**
+- **Levítico**
 - ...
-- **[Temas](Temas.md)**: Estudos sobre temas específicos como amor, fé, perdão, etc.
+- **Temas**: Estudos sobre temas específicos como amor, fé, perdão, etc.
 
 ### Como Utilizar
 
