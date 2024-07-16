@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Livros/Bíblia/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Livros/Bíblia/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Livros/Bíblia/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Livros/Bíblia/readme.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "104ceb04861881f9",
   "lastOpenFiles": [
-    "Livros/Bíblia/readme.md",
     "readme.md",
+    "Livros/Bíblia/readme.md",
     "Livros/Bíblia",
     "Aulas da UFJF",
     "Livros",
