@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/Mais Esperto Que o Diabo/readme.md",
+                "file": "Livros/Bíblia/1João/1João.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livros/Mais Esperto Que o Diabo/readme.md",
+                "file": "Livros/Bíblia/1João/1João.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livros/Mais Esperto Que o Diabo/readme.md",
+                "file": "Livros/Bíblia/1João/1João.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livros/Mais Esperto Que o Diabo/readme.md"
+                "file": "Livros/Bíblia/1João/1João.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "55d0ef75933a7580",
   "lastOpenFiles": [
+    "Livros/Mais Esperto Que o Diabo/readme.md",
+    "Livros/Bíblia/1João/1João.md",
+    "Livros/Bíblia/1João",
     "readme.md",
     "Livros/Bíblia/readme.md",
-    "Livros/Mais Esperto Que o Diabo/readme.md",
     "Computação/readme.md",
     "Aulas da UFJF/readme.md",
     "Capitulo1.md",
