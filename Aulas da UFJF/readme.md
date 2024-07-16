@@ -20,12 +20,6 @@ As anotações estão organizadas por disciplinas e tópicos, facilitando a nave
 - ...
 - **Tópicos Especiais**
 
-### Como Utilizar
-
-1. **Navegue pelas Pastas**: Cada disciplina tem sua própria pasta. Clique na pasta da disciplina desejada para ver as anotações.
-2. **Leia e Reflita**: Utilize as anotações para revisar o conteúdo das aulas e aprofundar seu conhecimento.
-3. **Contribua** (Opcional): Se desejar, sinta-se à vontade para contribuir com suas próprias anotações e insights.
-
 ### Observação
 
 Estas anotações refletem meu entendimento e interpretação das aulas. Sinta-se livre para complementar com suas próprias anotações e sugestões. O objetivo é criar um espaço de aprendizado colaborativo e enriquecedor.

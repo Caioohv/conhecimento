@@ -15,12 +15,6 @@ As anotações estão organizadas de acordo com os capítulos do livro. Cada cap
 - ...
 - **Capítulo 12 - Ambiente, tempo, harmonia e precaução**
 
-### Como Utilizar
-
-1. **Navegue pelos Arquivos**: Clique nos arquivos para acessar as anotações de cada capítulo.
-2. **Leia e Reflita**: Utilize as anotações como ponto de partida para suas próprias reflexões e para aplicar os ensinamentos do livro em sua vida.
-3. **Contribua** (Opcional): Se desejar, sinta-se à vontade para contribuir com suas próprias anotações e insights.
-
 ### Observação
 
 Estas anotações refletem minhas interpretações e insights pessoais sobre o livro. Sinta-se livre para concordar, discordar ou complementar com seus próprios pensamentos. O objetivo é criar um espaço de aprendizado e crescimento mútuo.

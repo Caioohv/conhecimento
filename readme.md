@@ -23,6 +23,7 @@ Vou entender a sua estrela no repositório como um "Muito obrigado!"
 
 Bons estudos, pessoal!
 
+___
 # English Version
 
 Hello! How are you?

@@ -19,12 +19,6 @@ As anotações estão organizadas da seguinte forma:
 - ...
 - **Temas**: Estudos sobre temas específicos como amor, fé, perdão, etc.
 
-### Como Utilizar
-
-1. **Navegue pelos Arquivos**: Clique nos arquivos para acessar as anotações.
-2. **Leia e Reflita**: Utilize as anotações como ponto de partida para suas próprias reflexões e estudos.
-3. **Contribua** (Opcional): Se desejar, sinta-se à vontade para contribuir com suas próprias anotações e insights.
-
 ### Observação
 
 Estas anotações refletem minhas interpretações e estudos pessoais. Sinta-se livre para concordar, discordar ou complementar com seus próprios insights. O objetivo é criar um espaço de aprendizado e crescimento mútuo.
