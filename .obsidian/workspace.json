@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md",
+                "file": "Aulas da UFJF/Estruturas de Dados 2/Parte 1/Resumo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md",
+                "file": "Aulas da UFJF/Estruturas de Dados 2/Parte 1/Resumo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md",
+                "file": "Aulas da UFJF/Estruturas de Dados 2/Parte 1/Resumo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md"
+                "file": "Aulas da UFJF/Estruturas de Dados 2/Parte 1/Resumo.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "55d0ef75933a7580",
+  "active": "e704c4b0a75709ee",
   "lastOpenFiles": [
-    "Livros/Mais Esperto Que o Diabo/readme.md",
     "Livros/Bíblia/1João/1João.md",
+    "Aulas da UFJF/Estruturas de Dados 2/Parte 1/Resumo.md",
+    "Aulas da UFJF/Estruturas de Dados/Sem título.md",
+    "Aulas da UFJF/Estruturas de Dados 2/Parte 1",
+    "Aulas da UFJF/Estruturas de Dados 2",
+    "Livros/Mais Esperto Que o Diabo/readme.md",
     "Livros/Bíblia/1João",
     "readme.md",
     "Livros/Bíblia/readme.md",
@@ -163,7 +167,6 @@
     "Livros",
     "Computação/Engenharia de Software",
     "Computação/VueJS",
-    "Computação/NodeJS",
-    "Computação"
+    "Computação/NodeJS"
   ]
 }
