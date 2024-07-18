@@ -57,3 +57,20 @@ Devemos tomar cuidado com aqueles que nos seduzem, com ideias blasfêmicas e fal
 Temos a unção do espírito santo, que nos ensina sobre todas as coisas. 
 Conseguimos discernir a verdade e a mentira se permanecemos nele.
 Ele é justo, e todo que pratica a justiça é nascido dele.
+
+### Filhos de Deus
+
+João fala sobre o tamanho do amor que o Pai nos deu para que fossemos chamados de Filhos de Deus.
+O mundo ainda não nos conhece porque não conhecem a Ele, e, quando ele se manifestar, veremos que somos semelhantes a Ele.
+
+### Romper com o pecado
+
+João fala sobre a transgressão da Lei.
+
+O pecado é a transgressão da Lei.
+Jesus veio para que nossos pecados fossem perdoados.
+Ele morreu, sem pecado, carregando a culpa de todos nós.
+
+Todo o que nEle permanece, não peca.
+Todo o que peca, não o viu, nem o conheceu.
+
