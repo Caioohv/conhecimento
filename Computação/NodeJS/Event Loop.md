@@ -1,0 +1,92 @@
+A princípio, temos que entender que:
+- Node é uma plataforma orientada a eventos.
+- Uma transação passa por vários callbacks.
+- O JS não trabalha de forma assíncrona, então, devemos definir: quando um processo terminar, faça isso (callback)
+- Isso é bom pois aumenta a eficiência de operações
+
+O event loop é um conceito central no Node.js e desempenha um papel crucial na sua arquitetura assíncrona e orientada a eventos. Vamos detalhar o que é o event loop, como ele funciona e por que é importante para o Node.js.
+
+### O que é o Event Loop?
+
+O event loop é um mecanismo que permite ao Node.js realizar operações não bloqueantes (como E/S de arquivos, operações de rede, etc.) — mesmo que o JavaScript seja monothread —, gerenciando essas operações de forma eficiente e permitindo que múltiplas operações sejam realizadas em paralelo.
+
+### Como o Event Loop Funciona?
+
+O funcionamento do event loop pode ser compreendido através de várias fases, cada uma das quais lida com diferentes tipos de eventos. Aqui está uma visão geral das principais fases:
+
+1. **Timers**:
+   - Executa callbacks programados por `setTimeout` e `setInterval`.
+   
+2. **Pending Callbacks**:
+   - Executa callbacks de operações I/O que foram adiadas para a próxima iteração do loop.
+
+3. **Idle, Prepare**:
+   - Fases internas usadas em operações internas do Node.js.
+
+4. **Poll**:
+   - Busca novos eventos I/O, executa callbacks de I/O (quase todas as operações de I/O, exceto aquelas com timers agendados), e vai esperar por novas operações de I/O se necessário.
+
+5. **Check**:
+   - Executa callbacks agendados por `setImmediate`.
+
+6. **Close Callbacks**:
+   - Executa callbacks de eventos de fechamento, como `socket.on('close', ...)`.
+
+### Detalhamento de Algumas Fases
+
+1. **Timers**:
+   - Quando você usa `setTimeout` ou `setInterval`, o Node.js coloca o callback correspondente em uma fila para ser executado após o tempo especificado. Quando o event loop entra na fase de Timers, ele verifica essa fila e executa os callbacks cujos tempos de espera expiraram.
+
+2. **Poll**:
+   - Esta é a fase onde a maior parte do trabalho acontece. O poll é responsável por buscar novos eventos I/O e executa seus callbacks imediatamente. Se não houver callbacks para processar, ele pode entrar em modo de espera e aguardar por novos eventos.
+
+3. **Check**:
+   - Callbacks agendados por `setImmediate` são executados nessa fase. `setImmediate` é utilizado para executar um callback imediatamente após o poll phase.
+
+### Exemplo Prático
+
+Aqui está um exemplo simples para ilustrar o comportamento do event loop:
+
+```javascript
+const fs = require('fs');
+
+console.log('Início');
+
+// Timer com setTimeout
+setTimeout(() => {
+  console.log('setTimeout');
+}, 0);
+
+// Immediate com setImmediate
+setImmediate(() => {
+  console.log('setImmediate');
+});
+
+// Operação de I/O assíncrona
+fs.readFile(__filename, () => {
+  console.log('readFile');
+});
+
+console.log('Fim');
+```
+
+A ordem esperada de saída é:
+
+```
+Início
+Fim
+setImmediate
+readFile
+setTimeout
+```
+
+### Importância do Event Loop
+
+1. **Desempenho**:
+   - O event loop permite que o Node.js seja altamente eficiente e escalável para operações I/O, o que é ideal para aplicações web que necessitam lidar com múltiplas conexões simultâneas.
+
+2. **Não-bloqueante**:
+   - Graças ao event loop, operações I/O são realizadas de forma não-bloqueante, permitindo que o servidor continue processando outras requisições enquanto espera por operações de I/O serem concluídas.
+
+3. **Simplicidade de Código**:
+   - A arquitetura assíncrona de Node.js simplifica o código em comparação com a necessidade de múltiplas threads em outras linguagens de programação, reduzindo a complexidade e o risco de condições de corrida e deadlocks.
