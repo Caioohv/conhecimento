@@ -114,3 +114,15 @@ O callback do setTimeout só será executado quando a pilha estiver vazia.
 O setTimeout, quando usa o parâmetro 1000, diz que **atrasará em um segundo a execução**, não que irá executar em um segundo.
 Ou seja, pode acontecer de ter uma tarefa na pilha que demore 3 segundos, e só depois será executado seu callback. No total, será mais que um segundo.
 
+### Explicação Completa
+
+1. **Execução Inicial**:
+    - O código começa executando `console.log(a)`, imprimindo `a`
+    - Em seguida, `setTimeout` é chamado, registrando `console.log(b)` para ser executado após 1 segundo e continuando **sem bloquear** a execução
+    - Logo depois, `console.log(c)` é executado, imprimindo `c`
+2. **Fila de Timers**:
+    - Quando o `setTimeout` é chamado, ele registra `console.log(b)` na fila de timers para ser executado após o tempo especificado
+3. **Event Loop**:
+    - O Event Loop verifica a pilha de execução, que agora está vazia
+    - Depois de 1 segundo, o Event Loop move `console.log(b)` da fila de timers para a pilha de execução
+    - `console.log(b)` é então executado, imprimindo `b`
