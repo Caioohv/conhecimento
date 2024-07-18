@@ -45,10 +45,15 @@ O mundo e suas coisas passam, mas quem cumpre a vontade de Deus permanece eterna
 ### Anticristos
 
 João avisa sobre a vinda do Anticristo, e como devemos nos preparar.
+O Anticristo é quem nega o pai e o filho.
+Devemos tomar cuidado com aqueles que nos seduzem, com ideias blasfêmicas e falsas profecias.
 
-Já existem muitos anticristos, que saem do nosso meio.
-Nem todos que estão no nosso meio são como nós.
+-> Todos que negam o Filho, negam também o Pai.
+-> Todos que proclamam o Filho, proclamam também o Pai.
 
-O Anticristo nega o Pai e o Filho.
-Todos que negam o Filho, negam também o Pai.
-Todos que proclamam o Filho, proclamam também o Pai.
+"Já existem muitos anticristos, que saem do nosso meio."
+-> Nem todos que estão no nosso meio são como nós.
+
+Temos a unção do espírito santo, que nos ensina sobre todas as coisas. 
+Conseguimos discernir a verdade e a mentira se permanecemos nele.
+Ele é justo, e todo que pratica a justiça é nascido dele.
