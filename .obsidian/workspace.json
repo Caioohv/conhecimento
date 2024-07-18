@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md",
+                "file": "Computação/NodeJS/Event Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md",
+                "file": "Computação/NodeJS/Event Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md",
+                "file": "Computação/NodeJS/Event Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livros/Bíblia/1João/1João.md"
+                "file": "Computação/NodeJS/Event Loop.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "55d0ef75933a7580",
   "lastOpenFiles": [
+    "Livros/Bíblia/1João/1João.md",
     "Aulas da UFJF/Estruturas de Dados 2/Parte 1/Resumo.md",
     "Computação/NodeJS/Event Loop.md",
-    "Livros/Bíblia/1João/1João.md",
     "Aulas da UFJF/Estruturas de Dados/Sem título.md",
     "Aulas da UFJF/Estruturas de Dados 2/Parte 1",
     "Aulas da UFJF/Estruturas de Dados 2",

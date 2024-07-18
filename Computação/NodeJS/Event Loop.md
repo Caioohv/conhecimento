@@ -90,3 +90,27 @@ setTimeout
 
 3. **Simplicidade de Código**:
    - A arquitetura assíncrona de Node.js simplifica o código em comparação com a necessidade de múltiplas threads em outras linguagens de programação, reduzindo a complexidade e o risco de condições de corrida e deadlocks.
+
+# Ilustrando
+
+O Event Loop, de forma resumida, possui uma pilha de execução principal, e uma fila de execução "paralela".
+
+Suponhamos que temos o código:
+```js
+console.log('a')
+setTimeout(() => console.log('b'), 1000)
+console.log('c')
+```
+
+- A função `console.log(a)` é executada **imediatamente**
+- A função `setTimeout` é registrada para ser executada após 1 segundo (1000 milissegundos). No entanto, o callback associado (`console.log(b)`) **não é executado imediatamente**. Ele é colocado na fila do Event Loop.
+- A função `console.log(c)` é executada imediatamente após a linha que registra o `setTimeout`, imprimindo o valor de `c` no console.
+
+Após isso, o Event Loop continua sua execução e, quando 1 segundo se passa, ele verifica a fila e executa o callback associado, que imprime o valor de `b`.
+
+A ordem de saída então será de A, C, B
+
+O callback do setTimeout só será executado quando a pilha estiver vazia.
+O setTimeout, quando usa o parâmetro 1000, diz que **atrasará em um segundo a execução**, não que irá executar em um segundo.
+Ou seja, pode acontecer de ter uma tarefa na pilha que demore 3 segundos, e só depois será executado seu callback. No total, será mais que um segundo.
+
