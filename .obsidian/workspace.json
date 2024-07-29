@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/NodeJS/Event Loop.md",
+                "file": "Aulas da UFJF/Pesquisa Operacional/1. Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computação/NodeJS/Event Loop.md",
+                "file": "Aulas da UFJF/Pesquisa Operacional/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computação/NodeJS/Event Loop.md",
+                "file": "Aulas da UFJF/Pesquisa Operacional/1. Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computação/NodeJS/Event Loop.md"
+                "file": "Aulas da UFJF/Pesquisa Operacional/1. Introdução.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "55d0ef75933a7580",
   "lastOpenFiles": [
+    "Computação/NodeJS/Event Loop.md",
+    "Aulas da UFJF/Pesquisa Operacional/1. Introdução.md",
+    "Aulas da UFJF/Pesquisa Operacional",
     "Livros/Bíblia/1João/1João.md",
     "Aulas da UFJF/Estruturas de Dados 2/Parte 1/Resumo.md",
-    "Computação/NodeJS/Event Loop.md",
     "Aulas da UFJF/Estruturas de Dados/Sem título.md",
     "Aulas da UFJF/Estruturas de Dados 2/Parte 1",
     "Aulas da UFJF/Estruturas de Dados 2",
@@ -167,7 +169,6 @@
     "Aulas da UFJF",
     "Livros",
     "Computação/Engenharia de Software",
-    "Computação/VueJS",
-    "Computação/NodeJS"
+    "Computação/VueJS"
   ]
 }
