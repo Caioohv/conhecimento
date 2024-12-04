@@ -10,9 +10,10 @@ As anotações estão organizadas por temas específicos da área de computaçã
 
 ### Estrutura
 
-- **VueJS**
-- **NodeJS**
 - **Engenharia de Software**
+- **Estrutura de Dados**
+- **Redes de Computadores**
+- **Banco de Dados**
 - ...
 ### Observação
 
