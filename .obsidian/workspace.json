@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação Teórica/Desenvolvimento/Princípios SOLID.md",
+                "file": "Conhecimentos Úteis/Conventional Commits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Princípios SOLID"
+              "title": "Conventional Commits"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "55d0ef75933a7580",
   "lastOpenFiles": [
-    "Computação Teórica/Desenvolvimento/Injeção de Dependências.md",
     "Computação Teórica/Desenvolvimento/Princípios SOLID.md",
+    "Conhecimentos Úteis/Conventional Commits.md",
+    "Conhecimentos Úteis",
+    "Computação Teórica/Desenvolvimento/Injeção de Dependências.md",
     "Dev/JS/VueJS/Teoria/6. Templates e Diretivas.md",
     "Computação Teórica/Desenvolvimento",
     "imgs/Pasted image 20241215040712.png",
@@ -200,8 +202,6 @@
     "Livros/Bíblia/readme.md",
     "Computação/readme.md",
     "Aulas da UFJF/readme.md",
-    "Capitulo1.md",
-    "Livros/Mais Esperto Que o Diabo",
-    "Livros/Bíblia"
+    "Livros/Mais Esperto Que o Diabo"
   ]
 }
