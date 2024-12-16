@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação Teórica/Desenvolvimento/Injeção de Dependências.md",
+                "file": "Computação Teórica/Desenvolvimento/Princípios SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Injeção de Dependências"
+              "title": "Princípios SOLID"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "55d0ef75933a7580",
   "lastOpenFiles": [
-    "Dev/JS/VueJS/Teoria/6. Templates e Diretivas.md",
     "Computação Teórica/Desenvolvimento/Injeção de Dependências.md",
+    "Computação Teórica/Desenvolvimento/Princípios SOLID.md",
+    "Dev/JS/VueJS/Teoria/6. Templates e Diretivas.md",
     "Computação Teórica/Desenvolvimento",
     "imgs/Pasted image 20241215040712.png",
     "Dev/NGINX/7. Monitoramento e Log.md",
@@ -200,7 +201,6 @@
     "Computação/readme.md",
     "Aulas da UFJF/readme.md",
     "Capitulo1.md",
-    "Capitulo2-O-Proposito-de-Vida.md",
     "Livros/Mais Esperto Que o Diabo",
     "Livros/Bíblia"
   ]
