@@ -1,5 +1,3 @@
-# Memcached
-
 O Memcached é um sistema de cache de memória amplamente utilizado para acelerar o acesso a dados em aplicativos da web. 
 
 ### Como o Memcached Funciona?
