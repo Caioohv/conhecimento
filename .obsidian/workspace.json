@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação Teórica/Desenvolvimento/JS/Memcached.md",
+                "file": "Computação Teórica/Desenvolvimento/Redis/3. Comandos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memcached"
+              "title": "3. Comandos"
             }
           }
         ]
@@ -164,6 +164,11 @@
   },
   "active": "55d0ef75933a7580",
   "lastOpenFiles": [
+    "Computação Teórica/Desenvolvimento/Redis/2. Tipos de Dados.md",
+    "Computação Teórica/Desenvolvimento/Redis/3. Comandos.md",
+    "Computação Teórica/Desenvolvimento/Redis/1. Introdução.md",
+    "Computação Teórica/Desenvolvimento/JS/Memcached.md",
+    "Computação Teórica/Desenvolvimento/Redis",
     "Dev/Js/tests/mocha/memcached.test.js",
     "node_modules/fsevents",
     "babel.config.js",
@@ -174,8 +179,6 @@
     "node_modules/regenerate-unicode-properties/Script_Extensions/Zanabazar_Square.js",
     "node_modules/regenerate-unicode-properties/Script/Yi.js",
     "node_modules/regenerate-unicode-properties/Script_Extensions/Yi.js",
-    "node_modules/regenerate-unicode-properties/Script/Yezidi.js",
-    "node_modules/regenerate-unicode-properties/Script_Extensions/Yezidi.js",
     "node_modules/@babel/preset-modules/README.md",
     "node_modules/core-js-compat/README.md",
     "node_modules/regenerator-transform/README.md",
@@ -197,9 +200,6 @@
     "node_modules/@babel/plugin-transform-async-to-generator/README.md",
     "node_modules/@babel/plugin-syntax-unicode-sets-regex/README.md",
     "node_modules/@babel/plugin-transform-class-properties/README.md",
-    "node_modules/@babel/plugin-transform-classes/README.md",
-    "node_modules/@babel/plugin-transform-computed-properties/README.md",
-    "node_modules/@babel/plugin-transform-destructuring/README.md",
     "imgs/Pasted image 20241215040712.png",
     "imgs/Pasted image 20241215022506.png"
   ]
