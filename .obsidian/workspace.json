@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação Teórica/Desenvolvimento/JS/Sequelize/0. Introdução.md",
+                "file": "Computação Teórica/Desenvolvimento/JS/JWT/1. O que é JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Introdução"
+              "title": "1. O que é JWT"
             }
           }
         ]
@@ -164,8 +164,14 @@
   },
   "active": "7b723dfcf35e106a",
   "lastOpenFiles": [
-    "Computação Teórica/Código Limpo/1. O que (não) é código limpo.md",
+    "Computação Teórica/Desenvolvimento/JS/JWT/0. Introdução.md",
+    "Computação Teórica/Desenvolvimento/JS/JWT/1. O que é JWT.md",
+    "Computação Teórica/Desenvolvimento/JS/NodeJS/Event Loop.md",
+    "Computação Teórica/Desenvolvimento/JS/JWT",
+    "Computação Teórica/Desenvolvimento/JS/JWT",
+    "Computação Teórica/Desenvolvimento/JS/Sequelize/1. Níveis de Abstração.md",
     "Computação Teórica/Desenvolvimento/JS/Sequelize/0. Introdução.md",
+    "Computação Teórica/Código Limpo/1. O que (não) é código limpo.md",
     "Computação Teórica/Desenvolvimento/JS/Sequelize",
     "Sem título 1.md",
     "Sem título.md",
@@ -181,8 +187,6 @@
     "node_modules/regenerate-unicode-properties/LICENSE-MIT.txt",
     "node_modules/regenerate-unicode-properties/README.md",
     "node_modules/regenerate-unicode-properties/package.json",
-    "node_modules/regenerate-unicode-properties/Script/Zanabazar_Square.js",
-    "node_modules/regenerate-unicode-properties/Script_Extensions/Zanabazar_Square.js",
     "node_modules/@babel/preset-modules/README.md",
     "node_modules/core-js-compat/README.md",
     "node_modules/regenerator-transform/README.md",
@@ -196,10 +200,6 @@
     "node_modules/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/README.md",
     "node_modules/@babel/plugin-bugfix-safari-class-field-initializer-scope/README.md",
     "node_modules/@babel/plugin-syntax-import-assertions/README.md",
-    "node_modules/regexpu-core/README.md",
-    "node_modules/@babel/preset-env/CONTRIBUTING.md",
-    "node_modules/@babel/plugin-transform-block-scoped-functions/README.md",
-    "node_modules/@babel/plugin-transform-async-generator-functions/README.md",
     "imgs/Pasted image 20241215040712.png",
     "imgs/Pasted image 20241215022506.png"
   ]
