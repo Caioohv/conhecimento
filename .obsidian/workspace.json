@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação Teórica/Desenvolvimento/JS/JWT/1. O que é JWT.md",
+                "file": "Aprendizados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. O que é JWT"
+              "title": "Aprendizados"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -164,8 +165,11 @@
   },
   "active": "7b723dfcf35e106a",
   "lastOpenFiles": [
-    "Computação Teórica/Desenvolvimento/JS/JWT/0. Introdução.md",
+    "Computação Teórica/Desenvolvimento/JS/JWT/3. Exemplos de Uso.md",
+    "Sem título.md",
+    "Computação Teórica/Desenvolvimento/JS/JWT/2. Usando JWT.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/1. O que é JWT.md",
+    "Computação Teórica/Desenvolvimento/JS/JWT/0. Introdução.md",
     "Computação Teórica/Desenvolvimento/JS/NodeJS/Event Loop.md",
     "Computação Teórica/Desenvolvimento/JS/JWT",
     "Computação Teórica/Desenvolvimento/JS/JWT",
@@ -173,8 +177,7 @@
     "Computação Teórica/Desenvolvimento/JS/Sequelize/0. Introdução.md",
     "Computação Teórica/Código Limpo/1. O que (não) é código limpo.md",
     "Computação Teórica/Desenvolvimento/JS/Sequelize",
-    "Sem título 1.md",
-    "Sem título.md",
+    "Aprendizados.md",
     "Computação Teórica/Desenvolvimento/Redis/3. Comandos.md",
     "Computação Teórica/Código Limpo",
     "Computação Teórica/Desenvolvimento/Redis/2. Tipos de Dados.md",
@@ -198,8 +201,6 @@
     "node_modules/@babel/plugin-bugfix-firefox-class-in-computed-class-key/README.md",
     "node_modules/@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly/README.md",
     "node_modules/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/README.md",
-    "node_modules/@babel/plugin-bugfix-safari-class-field-initializer-scope/README.md",
-    "node_modules/@babel/plugin-syntax-import-assertions/README.md",
     "imgs/Pasted image 20241215040712.png",
     "imgs/Pasted image 20241215022506.png"
   ]
