@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizados.md",
+                "file": "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Visão Gera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aprendizados"
+              "title": "0. Visão Gera"
             }
           }
         ]
@@ -165,19 +165,24 @@
   },
   "active": "7b723dfcf35e106a",
   "lastOpenFiles": [
-    "Computação Teórica/Desenvolvimento/JS/JWT/3. Exemplos de Uso.md",
-    "Sem título.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/2. Usando JWT.md",
+    "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Visão Gera.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/1. O que é JWT.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/0. Introdução.md",
     "Computação Teórica/Desenvolvimento/JS/NodeJS/Event Loop.md",
+    "Aprendizados.md",
+    "Computação Teórica/Desenvolvimento/JS/Nuxt",
+    "Dev/Nuxt",
+    "Dev/Vue",
+    "Dev/Js/Sem título",
+    "Computação Teórica/Desenvolvimento/JS/JWT/3. Exemplos de Uso.md",
+    "Sem título.md",
     "Computação Teórica/Desenvolvimento/JS/JWT",
     "Computação Teórica/Desenvolvimento/JS/JWT",
     "Computação Teórica/Desenvolvimento/JS/Sequelize/1. Níveis de Abstração.md",
     "Computação Teórica/Desenvolvimento/JS/Sequelize/0. Introdução.md",
     "Computação Teórica/Código Limpo/1. O que (não) é código limpo.md",
     "Computação Teórica/Desenvolvimento/JS/Sequelize",
-    "Aprendizados.md",
     "Computação Teórica/Desenvolvimento/Redis/3. Comandos.md",
     "Computação Teórica/Código Limpo",
     "Computação Teórica/Desenvolvimento/Redis/2. Tipos de Dados.md",
@@ -185,11 +190,7 @@
     "Computação Teórica/Desenvolvimento/JS/Memcached.md",
     "Computação Teórica/Desenvolvimento/Redis",
     "Dev/Js/tests/mocha/memcached.test.js",
-    "node_modules/fsevents",
-    "babel.config.js",
-    "node_modules/regenerate-unicode-properties/LICENSE-MIT.txt",
     "node_modules/regenerate-unicode-properties/README.md",
-    "node_modules/regenerate-unicode-properties/package.json",
     "node_modules/@babel/preset-modules/README.md",
     "node_modules/core-js-compat/README.md",
     "node_modules/regenerator-transform/README.md",
@@ -200,7 +201,6 @@
     "node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/README.md",
     "node_modules/@babel/plugin-bugfix-firefox-class-in-computed-class-key/README.md",
     "node_modules/@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly/README.md",
-    "node_modules/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/README.md",
     "imgs/Pasted image 20241215040712.png",
     "imgs/Pasted image 20241215022506.png"
   ]
