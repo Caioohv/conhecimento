@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "0. Visão Gera"
             }
+          },
+          {
+            "id": "e82d92bc1380d50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Fundamentos do Vue.js/2. Estrutura de um Componente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Estrutura de um Componente"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +178,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7b723dfcf35e106a",
+  "active": "e82d92bc1380d50a",
   "lastOpenFiles": [
+    "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Fundamentos do Vue.js/1. Seu primeiro projeto.md",
+    "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Fundamentos do Vue.js/2. Estrutura de um Componente.md",
+    "Sem título.md",
+    "Computação Teórica/Desenvolvimento/JS/Nuxt/readme.md",
+    "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Fundamentos do Vue.js",
     "Computação Teórica/Desenvolvimento/JS/JWT/2. Usando JWT.md",
-    "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Visão Gera.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/1. O que é JWT.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/0. Introdução.md",
     "Computação Teórica/Desenvolvimento/JS/NodeJS/Event Loop.md",
@@ -176,7 +195,6 @@
     "Dev/Vue",
     "Dev/Js/Sem título",
     "Computação Teórica/Desenvolvimento/JS/JWT/3. Exemplos de Uso.md",
-    "Sem título.md",
     "Computação Teórica/Desenvolvimento/JS/JWT",
     "Computação Teórica/Desenvolvimento/JS/JWT",
     "Computação Teórica/Desenvolvimento/JS/Sequelize/1. Níveis de Abstração.md",
@@ -189,7 +207,6 @@
     "Computação Teórica/Desenvolvimento/Redis/1. Introdução.md",
     "Computação Teórica/Desenvolvimento/JS/Memcached.md",
     "Computação Teórica/Desenvolvimento/Redis",
-    "Dev/Js/tests/mocha/memcached.test.js",
     "node_modules/regenerate-unicode-properties/README.md",
     "node_modules/@babel/preset-modules/README.md",
     "node_modules/core-js-compat/README.md",
@@ -199,8 +216,6 @@
     "node_modules/@babel/preset-env/README.md",
     "node_modules/@babel/plugin-transform-arrow-functions/README.md",
     "node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/README.md",
-    "node_modules/@babel/plugin-bugfix-firefox-class-in-computed-class-key/README.md",
-    "node_modules/@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly/README.md",
     "imgs/Pasted image 20241215040712.png",
     "imgs/Pasted image 20241215022506.png"
   ]
