@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Visão Gera.md",
+                "file": "Aprendizados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Visão Gera"
+              "title": "Aprendizados"
+            }
+          },
+          {
+            "id": "c14e7c24f34adab8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,14 +176,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7b723dfcf35e106a",
+  "active": "c14e7c24f34adab8",
   "lastOpenFiles": [
+    "readme.md",
+    "Aprendizados.md",
+    "Computação Teórica/Desenvolvimento/JS/Nuxt/Anotações Gerais.md",
+    "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Visão Geral.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/2. Usando JWT.md",
-    "Computação Teórica/Desenvolvimento/JS/Nuxt/0. Visão Gera.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/1. O que é JWT.md",
     "Computação Teórica/Desenvolvimento/JS/JWT/0. Introdução.md",
     "Computação Teórica/Desenvolvimento/JS/NodeJS/Event Loop.md",
-    "Aprendizados.md",
     "Computação Teórica/Desenvolvimento/JS/Nuxt",
     "Dev/Nuxt",
     "Dev/Vue",
@@ -199,8 +214,6 @@
     "node_modules/@babel/preset-env/README.md",
     "node_modules/@babel/plugin-transform-arrow-functions/README.md",
     "node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/README.md",
-    "node_modules/@babel/plugin-bugfix-firefox-class-in-computed-class-key/README.md",
-    "node_modules/@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly/README.md",
     "imgs/Pasted image 20241215040712.png",
     "imgs/Pasted image 20241215022506.png"
   ]
